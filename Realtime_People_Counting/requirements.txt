@@ -1,0 +1,7 @@
+schedule
+numpy
+argparse
+imutils
+dlib
+opencv-python
+scipy
